@@ -1,0 +1,15 @@
+.leftContainer {
+  background: #90e0ef;
+  height: 70vh;
+  width: 20vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Logo {
+  /* background-image: url("/public/Untitled.png"); */
+  /* width: 60%;
+  height: 45%; */
+  background-repeat: no-repeat;
+}

@@ -1,0 +1,55 @@
+.rightContainer {
+  width: 30vw;
+  height: 70vh;
+  background-color: #00b4d8;
+}
+
+.rightContainer h1 {
+  color: white;
+}
+
+.rightContainer h2 {
+  color: #08dad6;
+}
+
+.rightContainer button {
+  background-color: #08dad6;
+  outline: none;
+  border: none;
+  width: 400px;
+  height: 40px;
+  color: white;
+  margin-top: 20px;
+}
+
+.speciallabel {
+  color: white;
+}
+
+.formGroup {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.formGroup label {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+
+.formGroup input {
+  background-color: #00b4d8;
+  border: 1px solid white;
+  height: 25px;
+  color: white;
+}
+
+.formGroup input::placeholder {
+  color: white;
+}
+
+.formGroup input:focus {
+  outline: none;
+}
